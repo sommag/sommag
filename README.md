@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Welcome+to+my+digital+beehive!;Coding+with+care+and+passion+💛" alt="Typing SVG" />
 
-</p>
 <h1 align="center">Hi, I'm Giusy — turning ideas into elegant code ✨</h1>
 
 <p align="center">
