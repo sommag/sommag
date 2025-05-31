@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-giusy.png" alt="Banner Giusy" width="600" />
+  <img src="assets/banner-giusy.png" alt="Banner Giusy" width="400" />
 </p>
 
 <h1 align="center">Hi, I'm Giusy — turning ideas into elegant code ✨</h1>
@@ -15,6 +15,10 @@
 
 I'm graduate in Computer Engineering and 
 I enjoy building elegant, functional, and user-friendly websites — like a well-crafted beehive.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
+</p>
 
 Currently focusing on:
 
