@@ -1,13 +1,14 @@
 <p align="center">
-  <img src="assets/banner-giusy.png" alt="Banner Giusy" width="400" />
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=🐝Welcome+to+my+digital+beehive!;Coding+with+care+and+passion+💛" alt="Typing SVG" />
 
+</p>
 <h1 align="center">Hi, I'm Giusy — turning ideas into elegant code ✨</h1>
 
 <p align="center">
   <i>“Small steps, big dreams.”</i><br>
   <sub>Web developer in love with clean code and beautiful design.</sub>
 </p>
+
 
 ---
 
@@ -17,7 +18,7 @@ I'm graduate in Computer Engineering and
 I enjoy building elegant, functional, and user-friendly websites — like a well-crafted beehive.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" alt="woman coding gif" />
 </p>
 
 Currently focusing on:
@@ -52,9 +53,5 @@ Currently focusing on:
 - 📬 Let's connect on [LinkedIn](https://www.linkedin.com/in/giusy-somma)
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Welcome+to+my+digital+beehive!;Coding+with+care+and+passion+💛" 
-</p>
 
 
