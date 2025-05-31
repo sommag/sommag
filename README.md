@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Giusy and i like to turn ideas into elegant code ✨</h1>
+<h1 align="center">Hi, I'm Giusy and I like to turn ideas into elegant code ✨</h1>
 
 <p align="center">
   <i>“Small steps, big dreams.”</i><br>
