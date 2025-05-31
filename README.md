@@ -14,7 +14,7 @@ I enjoy building elegant, functional, and user-friendly websites — like a well
 
 Currently focusing on:
 
-- 🌐 Modern frontend development (React, Tailwind CSS)
+- 🌐 Modern frontend development 
 - 🧩 Personal projects made with care and creativity
 
 ---
@@ -41,7 +41,7 @@ Currently focusing on:
 
 - ✨ I believe in merging code with creativity
 - 🎯 Always learning, always improving
-- 📬 Let's connect on [LinkedIn](https://www.linkedin.com/in/sommag) *(replace with your real link!)*
+- 📬 Let's connect on [LinkedIn](https://www.linkedin.com/in/giusy-somma)
 
 ---
 
