@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-giusy.png" alt="Banner Giusy" width="100%" />
+  <img src="assets/banner-giusy.png" alt="Banner Giusy" width="600" />
 </p>
 
 <h1 align="center">Hi, I'm Giusy — turning ideas into elegant code ✨</h1>
