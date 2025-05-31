@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner-giusy.png" alt="Banner Giusy" width="100%" />
+</p>
+
 <h1 align="center">Hi, I'm Giusy — turning ideas into elegant code ✨</h1>
 
 <p align="center">
