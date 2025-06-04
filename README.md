@@ -15,7 +15,7 @@
 I'm a Computer Engineering graduate and I love building elegant, functional, and user-friendly websites — like a well-crafted beehive.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" alt="woman coding gif" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="woman coding gif" />
 </p>
 
 Currently focusing on:
@@ -24,7 +24,7 @@ Currently focusing on:
 - Personal projects crafted with care and creativity  
 
 <p align="center">
-  <img src="./assets/bee-divider.png" alt="Bee Divider" width="300" />
+  <img src="./assets/bee-divider.png" alt="Bee Divider" width="220" />
 </p>
 
 ### Featured Projects
