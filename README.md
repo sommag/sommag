@@ -1,6 +1,6 @@
 <h1 align="center">
-  Hi, I'm Giusy 👋<br>
-  <img src="https://img.shields.io/badge/Turning%20ideas%20into-elegant%20code✨-F7DF1E?style=for-the-badge" alt="Elegant Code Badge" />
+  Hi, I'm Giusy<br>
+  <img src="https://img.shields.io/badge/Turning%20ideas%20into-elegant%20code-F7DF1E?style=for-the-badge" alt="Elegant Code Badge" />
 </h1>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ### 🧠 About Me
 
-I'm a Computer Engineering graduate and I love building elegant, functional, and user-friendly websites — like a well-crafted beehive 🐝.
+I'm a Computer Engineering graduate and I love building elegant, functional, and user-friendly websites — like a well-crafted beehive.
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" alt="woman coding gif" />
