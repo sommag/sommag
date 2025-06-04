@@ -10,7 +10,7 @@
 
 ---
 
-### 🧠 About Me
+###  About Me
 
 I'm a Computer Engineering graduate and I love building elegant, functional, and user-friendly websites — like a well-crafted beehive.
 
@@ -20,20 +20,22 @@ I'm a Computer Engineering graduate and I love building elegant, functional, and
 
 Currently focusing on:
 
-- 🌐 Modern frontend development  
-- 🎨 Personal projects crafted with care and creativity  
+- Modern frontend development  
+- Personal projects crafted with care and creativity  
 
----
+<p align="center">
+  <img src="./assets/bee-divider.png" alt="Bee Divider" width="300" />
+</p>
 
-### 🚀 Featured Projects
+### Featured Projects
 
 - [`portfolio`](https://github.com/sommag/portfolio) — My personal portfolio  
 - [`nautical-rent`](https://github.com/sommag/nautical-rent) — Boat rental platform with style  
-- [`petfamily`](https://github.com/sommag/petfamily) — A love letter to animals 🐾  
+- [`petfamily`](https://github.com/sommag/petfamily) — A love letter to animals   
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,cs,git" alt="My Skills"/>
@@ -41,11 +43,11 @@ Currently focusing on:
 
 ---
 
-### 🌼 A Bit More About Me
+### A Bit More About Me
 
-- ✨ I believe in merging code with creativity  
-- 🎯 Always learning, always improving  
-- 📬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/giusy-somma)  
+-  I believe in merging code with creativity  
+-  Always learning, always improving  
+-  Let’s connect on [LinkedIn](https://www.linkedin.com/in/giusy-somma)  
 
 ---
 
