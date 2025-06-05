@@ -29,9 +29,9 @@ Currently focusing on:
 
 ### Featured Projects
 
-- [`portfolio`](https://github.com/sommag/portfolio) — My personal portfolio  
-- [`nautical-rent`](https://github.com/sommag/nautical-rent) — Boat rental platform with style  
-- [`petfamily`](https://github.com/sommag/petfamily) — A love letter to animals   
+- [`portfolio`](https://github.com/sommag/portfolio) — My personal portfolio showcasting who I am, what i do, and how I work.
+- [`nautical-rent`](https://github.com/sommag/nautical-rent) — Boat rental platform built for simplicity and style, with optional sunset excursions.
+- [`petfamily`](https://github.com/sommag/petfamily) — A heartfelt site for animal lover, featuring stories. memories, and custom components.
 
 ---
 
