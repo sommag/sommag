@@ -29,11 +29,10 @@ Currently focusing on:
 
 ### Featured Projects
 
-- [`portfolio`](https://github.com/sommag/portfolio) — My personal portfolio showcasting who I am, what i do, and how I work.
-- [`nautical-rent`](https://github.com/sommag/nautical-rent) — Boat rental platform built for simplicity and style, with optional sunset excursions.
-- [`petfamily`](https://github.com/sommag/petfamily) — A heartfelt site for animal lover, featuring stories. memories, and custom components.
-- [`To-do app`] ("https://sommag.github.io/todo-app) - A simple yet functional To-Do List application with a starry night-inspired design. 
-        
+- [`portfolio`](https://github.com/sommag/portfolio) — My personal portfolio showcasing who I am, what I do, and how I work.
+- [`nautical-rent`](https://github.com/sommag/nautical-rent) — Boat rental platform built for simplicity and style, including optional sunset excursions.
+- [`petfamily`](https://github.com/sommag/petfamily) — A heartfelt site for animal lovers, featuring stories, memories, and custom components.
+- [`To-do app`](https://sommag.github.io/todo-app) — A simple yet functional To-Do List application with a starry night-inspired design.
 
 ### Tech Stack
 
